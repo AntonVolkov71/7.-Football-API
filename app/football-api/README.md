@@ -1,24 +1,21 @@
-# football-api
+## Приложение по обзору европейских лиг и команд по футболу
 
-## Project setup
-```
-yarn install
-```
+### [Ссылка gh-pages](https://antonvolkov71.github.io/7.-Football-API)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<h2 align='center'>
+  <strong>"Что есть что"</strong>  
+</h2>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+#### Основная тема
 
-### Lints and fixes files
-```
-yarn lint
-```
+1. Выбор и просмотр лиги
+2. Просмотр команд
+3. Просмотр календаря игр лиги и команды
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Невероятные возможности
+
+1. Выбор года лиги
+2. Фильтр даты календаря
+3. Фильтр лиг и команд
+
+#### Автор гипер-проекта: Антон Волков. :bowtie:
