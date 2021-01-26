@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a3d2"],{bb51:function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"home"},[n("router-link",{attrs:{to:"/leagues"}},[t._v("Добро пожаловать")])],1)},a=[],c=n("0c7c"),l={},u=Object(c["a"])(l,s,a,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d21a3d2.f373f7ef.js.map
