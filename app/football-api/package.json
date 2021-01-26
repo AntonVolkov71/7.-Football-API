@@ -1,8 +1,13 @@
 {
   "name": "football-api",
-  "homepage": "https://github.com/AntonVolkov71/7.-Football-API",
+  "homepage": "https://antonvolkov71.github.io/7.-Football-API",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonVolkov71/7.-Football-API"
+  },
+  "author": "Anton Volkov <volkovanton71@yandex.ru>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
